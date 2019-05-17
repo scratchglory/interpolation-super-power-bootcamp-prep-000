@@ -1,6 +1,7 @@
 # Write your #display_rainbow method here
-
+require 'pry'
 def display_rainbow(array)
+  binding.pry
   "R: #{array[0]}"
   "O: #{array[1]}"
   "Y: #{array[2]}"
