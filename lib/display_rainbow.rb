@@ -2,4 +2,5 @@
 
 def display_rainbow(array)
   "R: #{array[0]}"
+  ""
 end
